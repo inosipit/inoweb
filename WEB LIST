@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>INO - X 𝕯𝖆𝖗𝖐 𝕬𝖓𝖌𝖊𝖑</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+  <style>
+    body {
+      background-color: #000000;
+      font-family: sans-serif;
+    }
+  </style>
+</head>
+<body class="text-white flex flex-col items-center justify-center min-h-screen px-4 text-center">
+
+  <img src="https://files.catbox.moe/ld8795.jpg" alt="https://files.catbox.moe/ld8795.jpg" class="w-32 mb-4 rounded-full shadow-lg" />
+  
+  <h1 class="text-4xl font-bold">INO</h1>
+  <p class="text-xl mt-1 mb-8">Cihuy 🗿</p>
+
+  <h2 class="text-2xl font-semibold mb-4">PRICE LIST</h2>
+
+  <div class="bg-gray-900 p-6 rounded-xl shadow-md w-full max-w-sm text-left">
+    <ul class="space-y-3 text-base">
+      <li>1. <strong>Jasa Banned WA</strong> - 15K / Nomor</li>
+      <li>2. <strong>Murban</strong> - 30K</li>
+      <li>3. <strong>Murbug</strong> - 5K</li>
+      <li>4. <strong>Jasbug</strong> - 2K / Nomor</li>
+      <li>5. <strong>Nokos</strong> - 5K / Nomor (INDO,FILIPINA)</li>
+       <li>6. <strong>CHAT TELE @darkangelnih</li>
+    </ul>
+  </div>
+
+  <p class="mt-10 text-xs text-gray-600">© 2025 INO</p>
+</body>
+</html>
